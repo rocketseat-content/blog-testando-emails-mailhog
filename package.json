@@ -1,0 +1,9 @@
+{
+  "name": "testmailhog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.1.1"
+  }
+}
